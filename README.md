@@ -27,7 +27,8 @@ A Streamlit web application that predicts medical insurance charges using a Line
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/ajeetkumarAI/streamlit-medical-insurance.git
+
 cd medical-insurance-prediction
 
 # Create virtual environment
